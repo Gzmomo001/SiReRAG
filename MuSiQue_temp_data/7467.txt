@@ -1,0 +1,2 @@
+CDC SCOPE
+SCOPE, an acronym for Supervisory Control Of Program Execution, was the name used by the Control Data Corporation for a number of operating system projects in the 1960s.

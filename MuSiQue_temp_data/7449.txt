@@ -1,0 +1,2 @@
+Couchbase Server
+On February 8, 2011, the Membase project founders and Membase, Inc. announced a merger with CouchOne (a company with many of the principal players behind CouchDB) with an associated project merger. The merged company was called Couchbase, Inc. In January 2012, Couchbase released Couchbase Server 1.8.

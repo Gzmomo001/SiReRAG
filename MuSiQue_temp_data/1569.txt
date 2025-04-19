@@ -1,0 +1,2 @@
+USB
+The USB Battery Charging Specification Revision 1.2 (released in 2010) makes clear that there are safety limits to the rated current at 5 A coming from USB 2.0. On the other hand, several changes are made and limits are increasing including allowing 1.5 A on charging downstream ports for unconfigured devices, allowing high speed communication while having a current up to 1.5 A, and allowing a maximum current of 5 A. Also, revision 1.2 removes support for USB ports type detection via resistive detection mechanisms.

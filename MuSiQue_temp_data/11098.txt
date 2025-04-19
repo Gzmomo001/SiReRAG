@@ -1,0 +1,2 @@
+Gyrotron
+A gyrotron is a class of high-power linear-beam vacuum tubes which generates millimeter-wave electromagnetic waves by the cyclotron resonance of electrons in a strong magnetic field. Output frequencies range from about 20 to 527 GHz, covering wavelengths from microwave to the edge of the terahertz gap. Typical output powers range from tens of kilowatts to 1–2 megawatts. Gyrotrons can be designed for pulsed or continuous operation.

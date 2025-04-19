@@ -1,0 +1,2 @@
+One-to-many (data model)
+In systems analysis, a one - to - many relationship is a type of cardinality that refers to the relationship between two entities (see also entity -- relationship model) A and B in which an element of A may be linked to many elements of B, but a member of B is linked to only one element of A. For instance, think of A as mothers, and B as children. A mother can have several children, but a child can have only one biological mother.

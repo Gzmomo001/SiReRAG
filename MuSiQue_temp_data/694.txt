@@ -1,0 +1,2 @@
+USB
+Sleep-and-charge USB ports can be used to charge electronic devices even when the computer is switched off. Normally, when a computer is powered off the USB ports are powered down, preventing phones and other devices from charging. Sleep-and-charge USB ports remain powered even when the computer is off. On laptops, charging devices from the USB port when it is not being powered from AC drains the laptop battery faster; most laptops have a facility to stop charging if their own battery charge level gets too low.

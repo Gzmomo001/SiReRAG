@@ -1,0 +1,2 @@
+ZIP Code
+ZIP Codes are a system of postal codes used by the United States Postal Service (USPS) since 1963. The term ZIP is an acronym for Zone Improvement Plan; it was chosen to suggest that the mail travels more efficiently and quickly (zipping along) when senders use the code in the postal address. The basic format consists of five digits. An extended 'ZIP + 4' code was introduced in 1983 which includes the five digits of the ZIP Code, followed by a hyphen and four additional digits that determine a more specific location.

@@ -1,0 +1,2 @@
+Yandex Browser
+Yandex Browser (Яндекс.Браузер in Russian) is a freeware web browser developed by the Russian web search corporation Yandex that uses the Blink web browser engine and is based on the Chromium open source project. The browser checks webpage security with the Yandex security system and checks downloaded files with Kaspersky anti-virus. The browser also uses Opera Software's Turbo technology to speed web browsing on slow connections.

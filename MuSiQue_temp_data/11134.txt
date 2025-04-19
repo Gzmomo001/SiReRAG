@@ -1,0 +1,2 @@
+BeiDou
+BeiDou-2 (formerly known as COMPASS) is not an extension to the older BeiDou-1, but rather supersedes it outright. The new system will be a constellation of 35 satellites, which include 5 geostationary orbit satellites for backward compatibility with BeiDou-1, and 30 non-geostationary satellites (27 in medium Earth orbit and 3 in inclined geosynchronous orbit), that will offer complete coverage of the globe.

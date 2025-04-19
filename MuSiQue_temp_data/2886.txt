@@ -1,0 +1,2 @@
+Windows Server 2012
+Unlike its predecessor, Windows Server 2012 has no support for Itanium - based computers, and has four editions. Various features were added or improved over Windows Server 2008 R2 (with many placing an emphasis on cloud computing), such as an updated version of Hyper - V, an IP address management role, a new version of Windows Task Manager, and ReFS, a new file system. Windows Server 2012 received generally good reviews in spite of having included the same controversial Metro - based user interface seen in Windows 8.

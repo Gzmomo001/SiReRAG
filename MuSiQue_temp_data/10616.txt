@@ -1,0 +1,2 @@
+Mozilla Messaging
+Mozilla Messaging (abbreviated MoMo) was a wholly owned, for-profit subsidiary of the non-profit Mozilla Foundation. It was broadly tasked with aspects of the Mozilla Project that focused on interpersonal communications, such as instant messaging and e-mail. Its main focus was developing Mozilla Thunderbird, the e-mail client developed by the Mozilla Foundation.

@@ -1,0 +1,2 @@
+CEMM
+In 1986, Compaq was the first vendor to ship a PC compatible computer with a 386 CPU, the Deskpro 386, and it was natural for them to develop solutions leveraging the specific features of their new hardware and in this case allowing existing EMS-compatible DOS programs to access all the memory.

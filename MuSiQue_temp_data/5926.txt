@@ -1,0 +1,2 @@
+DGN
+DGN (design) is the name used for CAD file formats supported by Bentley Systems, MicroStation and Intergraph's Interactive Graphics Design System (IGDS) CAD programs. The DGN format is used in construction projects, including buildings, highways, bridges, process plants, shipbuilding. DGN is a competing format to Autodesk's DWG.

@@ -1,0 +1,2 @@
+Communications satellite
+The Molniya orbit is designed so that the satellite spends the great majority of its time over the far northern latitudes, during which its ground footprint moves only slightly. Its period is one half day, so that the satellite is available for operation over the targeted region for six to nine hours every second revolution. In this way a constellation of three Molniya satellites (plus in-orbit spares) can provide uninterrupted coverage.

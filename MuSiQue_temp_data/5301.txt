@@ -1,0 +1,2 @@
+C (musical note)
+Middle C (the fourth C key from left on a standard 88 - key piano keyboard) is designated C in scientific pitch notation, the most commonly recognized in auditory science, while both C and the Helmholtz designation c 'are used in musical studies. Other note - octave systems, including those used by some makers of digital music keyboards, may refer to Middle C differently. In MIDI, Middle C is note number 60.

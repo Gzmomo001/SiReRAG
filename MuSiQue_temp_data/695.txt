@@ -1,0 +1,2 @@
+Fubini's theorem
+In mathematical analysis Fubini's theorem, introduced by Guido Fubini in 1907, is a result that gives conditions under which it is possible to compute a double integral by using iterated integral. One may switch the order of integration if the double integral yields a finite answer when the integrand is replaced by its absolute value.

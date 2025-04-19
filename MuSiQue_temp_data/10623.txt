@@ -1,0 +1,2 @@
+YouTube
+In January 2010, YouTube launched an experimental version of the site that used the built-in multimedia capabilities of web browsers supporting the HTML5 standard. This allowed videos to be viewed without requiring Adobe Flash Player or any other plug-in to be installed. The YouTube site had a page that allowed supported browsers to opt into the HTML5 trial. Only browsers that supported HTML5 Video using the H.264 or WebM formats could play the videos, and not all videos on the site were available.

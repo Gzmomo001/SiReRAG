@@ -1,0 +1,2 @@
+Daylight saving time
+In the case of the United States where a one-hour shift occurs at 02:00 local time, in spring the clock jumps forward from the last moment of 01:59 standard time to 03:00 DST and that day has 23 hours, whereas in autumn the clock jumps backward from the last moment of 01:59 DST to 01:00 standard time, repeating that hour, and that day has 25 hours. A digital display of local time does not read 02:00 exactly at the shift to summer time, but instead jumps from 01:59:59.9 forward to 03:00:00.0.

@@ -1,0 +1,2 @@
+BeiDou
+BeiDou-1 is an experimental regional navigation system, which consists of four satellites (three working satellites and one backup satellite). The satellites themselves were based on the Chinese DFH-3 geostationary communications satellite and had a launch weight of 1,000 kilograms (2,200 pounds) each.

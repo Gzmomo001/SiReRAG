@@ -1,0 +1,2 @@
+Mach's principle
+In theoretical physics, particularly in discussions of , Mach's principle (or Mach's conjecture) is the name given by Einstein to an imprecise hypothesis often credited to the physicist and philosopher Ernst Mach. The idea is that the existence of absolute rotation (the distinction of local inertial frames vs. rotating reference frames) is determined by the large-scale distribution of matter, as exemplified by this anecdote:

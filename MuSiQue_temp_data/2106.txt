@@ -1,0 +1,2 @@
+USB
+Various connectors have been used for smaller devices such as digital cameras, smartphones, and tablet computers. These include the now-deprecated (i.e. de-certified but standardized) mini-A and mini-AB connectors; mini-B connectors are still supported, but are not OTG-compliant (On The Go, used in mobile devices). The mini-B USB connector was standard for transferring data to and from the early smartphones and PDAs. Both mini-A and mini-B plugs are approximately 3 by 7 mm; the mini-A connector and the mini-AB receptacle connector were deprecated on 23 May 2007.

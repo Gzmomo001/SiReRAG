@@ -1,0 +1,2 @@
+List of UFC records
+Fighter Title Days 1. Anderson Silva Middleweight 2457 2. Demetrious Johnson Flyweight 2142 3. Georges St - Pierre Welterweight 2064 4. José Aldo Featherweight 1848 5. Jon Jones Light Heavyweight 1501 Fighter Title Defenses 1. Demetrious Johnson Flyweight 11 2. Anderson Silva Middleweight 10 3. Georges St - Pierre Welterweight 9 4. Jon Jones Light Heavyweight 8 5. José Aldo Featherweight 7

@@ -1,0 +1,2 @@
+IPod
+The games are in the form of .ipg files, which are actually .zip archives in disguise[citation needed]. When unzipped, they reveal executable files along with common audio and image files, leading to the possibility of third party games. Apple has not publicly released a software development kit (SDK) for iPod-specific development. Apps produced with the iPhone SDK are compatible only with the iOS on the iPod Touch and iPhone, which cannot run clickwheel-based games.

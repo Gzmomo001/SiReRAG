@@ -1,0 +1,2 @@
+Web browser
+A browser extension is a computer program that extends the functionality of a web browser. Every major web browser supports the development of browser extensions.

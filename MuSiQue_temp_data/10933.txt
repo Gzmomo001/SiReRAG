@@ -1,0 +1,2 @@
+Affero General Public License
+The Affero General Public License (Affero GPL and informally Affero License) is a free software license. The first version of the Affero General Public License (AGPLv1), was published by Affero, Inc. in March 2002, and based on the GNU General Public License, version 2 (GPLv2). The second version (AGPLv2) was published in November 2007, as a transitional license to allow an upgrade path from AGPLv1 to the GNU Affero General Public License (a variant of the original Affero GPL license that is compatible with GPLv3).

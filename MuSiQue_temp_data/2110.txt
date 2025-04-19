@@ -1,0 +1,2 @@
+USB
+USB device communication is based on pipes (logical channels). A pipe is a connection from the host controller to a logical entity, found on a device, and named an endpoint. Because pipes correspond 1-to-1 to endpoints, the terms are sometimes used interchangeably. A USB device could have up to 32 endpoints (16 IN, 16 OUT), though it's rare to have so many. An endpoint is defined and numbered by the device during initialization (the period after physical connection called "enumeration") and so is relatively permanent, whereas a pipe may be opened and closed.

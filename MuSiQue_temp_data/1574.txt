@@ -1,0 +1,2 @@
+USB
+The OTG device with the A-plug inserted is called the A-device and is responsible for powering the USB interface when required and by default assumes the role of host. The OTG device with the B-plug inserted is called the B-device and by default assumes the role of peripheral. An OTG device with no plug inserted defaults to acting as a B-device. If an application on the B-device requires the role of host, then the Host Negotiation Protocol (HNP) is used to temporarily transfer the host role to the B-device.

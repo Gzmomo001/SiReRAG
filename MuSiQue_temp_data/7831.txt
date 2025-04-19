@@ -1,0 +1,2 @@
+.cs
+.cs was for several years the country code top-level domain (ccTLD) for Czechoslovakia. However, the country split into the Czech Republic and Slovakia in 1993, and the two new countries were soon assigned their own ccTLDs: .cz and .sk respectively. The use of .cs was gradually phased out, and the ccTLD was deleted some time around January 1995.

@@ -1,0 +1,2 @@
+Windows 98
+The release of Windows 98 was preceded by a notable press demonstration at COMDEX in April 1998. Microsoft CEO Bill Gates was highlighting the operating system's ease of use and enhanced support for Plug and Play (PnP). However, when presentation assistant Chris Capossela hot plugged a USB scanner in, the operating system crashed, displaying a Blue Screen of Death. Bill Gates remarked after derisive applause and cheering from the audience, "That must be why we're not shipping Windows 98 yet." Video footage of this event became a popular Internet phenomenon.

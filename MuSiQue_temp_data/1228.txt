@@ -1,0 +1,2 @@
+MYSTIC (surveillance program)
+MYSTIC is a former secret program used since 2009 by the US National Security Agency (NSA) to collect the metadata as well as the content of phone calls from several countries. The program was first revealed in March 2014, based upon documents leaked by Edward Snowden.

@@ -1,0 +1,2 @@
+Ethernet over twisted pair
+All these standards use 8P8C connectors, and the cables from Cat 3 to Cat 8 have four pairs of wires; though 10BASE - T and 100BASE - TX only use two of the pairs.

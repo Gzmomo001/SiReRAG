@@ -1,0 +1,2 @@
+VT100
+The VT100 is a video terminal, introduced in August 1978 by Digital Equipment Corporation (DEC). It was one of the first terminals to support ANSI escape codes for cursor control and other tasks, and added a number of extended codes for special features like controlling the status lights on the keyboard. This led to rapid uptake of the ANSI standard, becoming the de facto standard for terminal emulators.

@@ -1,0 +1,2 @@
+Acme Animation Factory
+The game is compatible with the Super NES Mouse in addition to the gamepad. The player is given a series of tools to create their own animated cartoons, using the Looney Tunes characters. The player can alter the graphics, music, and animation. When the cartoon has been created, it can be saved and replayed. Aside from that, card games such as "Solitaire" and "Mix 'n' Match" (a variation of the game "Concentration") are playable.

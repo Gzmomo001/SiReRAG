@@ -1,0 +1,2 @@
+Gudermannian function
+The Gudermannian function, named after Christoph Gudermann (1798–1852), relates the circular functions and hyperbolic functions without explicitly using complex numbers.

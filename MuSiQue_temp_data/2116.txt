@@ -1,0 +1,2 @@
+I/O Controller Hub
+I/O Controller Hub (ICH) is a family of Intel southbridge microchips used to manage data communications between a CPU and a motherboard, specifically Intel chipsets based on the Intel Hub Architecture. It is designed to be paired with a second support chip known as a northbridge. As with any other southbridge, the ICH is used to connect and control peripheral devices.

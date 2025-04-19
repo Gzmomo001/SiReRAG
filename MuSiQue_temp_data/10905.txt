@@ -1,0 +1,2 @@
+Windows Server 2012
+Specification Windows Server 2012 Windows Server 2008 R2 Physical processors 64 64 Logical processors when Hyper - V is disabled 640 256 Logical processors when Hyper - V is enabled 320 64 Memory 4 TB 2 TB Failover cluster nodes (in any single cluster) 64 16

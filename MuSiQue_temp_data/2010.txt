@@ -1,0 +1,2 @@
+Hund's rules
+In atomic physics, Hund's rules refers to a set of rules that German physicist Friedrich Hund formulated around 1927, which are used to determine the term symbol that corresponds to the ground state of a multi-electron atom. The first rule is especially important in chemistry, where it is often referred to simply as Hund's Rule.

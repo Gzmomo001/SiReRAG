@@ -1,0 +1,2 @@
+TDRS-6
+TDRS-6, known before launch as TDRS-F, is an American communications satellite which is operated by NASA as part of the Tracking and Data Relay Satellite System. It was constructed by TRW, and is based on a custom satellite bus which was used for all seven first generation TDRS satellites.

@@ -1,0 +1,2 @@
+USB
+The IEEE 802.3af Power over Ethernet (PoE) standard specifies a more elaborate power negotiation scheme than powered USB. It operates at 48 V DC and can supply more power (up to 12.95 W, PoE+ 25.5 W) over a cable up to 100 meters compared to USB 2.0, which provides 2.5 W with a maximum cable length of 5 meters. This has made PoE popular for VoIP telephones, security cameras, wireless access points and other networked devices within buildings. However, USB is cheaper than PoE provided that the distance is short, and power demand is low.

@@ -1,0 +1,2 @@
+Microsoft Security Essentials
+Almost a year after the initial release, Microsoft quietly released the second version. It entered the technical preview stage on July 19, 2010, and the final build was released on December 16, 2010. It includes Network Inspection System (NIS), a network intrusion detection system that works on Windows Vista and Windows 7, as well as a new anti-malware engine that employs heuristics in malware detection. Version 2.0 integrates with Internet Explorer to protect users against web-based threats. NIS requires a separate set of definition updates.

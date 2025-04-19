@@ -1,0 +1,2 @@
+Anti-aircraft warfare
+However, the problem of deflection settings — 'aim-off' — required knowing the rate of change in the target's position. Both France and UK introduced tachymetric devices to track targets and produce vertical and horizontal deflection angles. The French Brocq system was electrical, the operator entered the target range and had displays at guns; it was used with their 75 mm. The British Wilson-Dalby gun director used a pair of trackers and mechanical tachymetry; the operator entered the fuse length, and deflection angles were read from the instruments.

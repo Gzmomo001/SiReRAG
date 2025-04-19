@@ -1,0 +1,2 @@
+Sky UK
+BSkyB utilises the VideoGuard pay-TV scrambling system owned by NDS, a Cisco Systems company. There are tight controls over use of VideoGuard decoders; they are not available as stand-alone DVB CAMs (conditional-access modules). BSkyB has design authority over all digital satellite receivers capable of receiving their service. The receivers, though designed and built by different manufacturers, must conform to the same user interface look-and-feel as all the others. This extends to the Personal video recorder (PVR) offering (branded Sky+).

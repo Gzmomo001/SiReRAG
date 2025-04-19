@@ -1,0 +1,2 @@
+Cốc Cốc
+Cốc Cốc browser (previously Cờ Rôm+) is a freeware web browser focused on the Vietnamese market, developed by Vietnamese company Cốc Cốc and based on Chromium open source code, which is the same platform used by Google Chrome, Opera, and Comodo Dragon. Cốc Cốc is available for the Windows, Windows Phone and macOS operating systems and supports both English and Vietnamese. Cốc Cốc also has a search engine called

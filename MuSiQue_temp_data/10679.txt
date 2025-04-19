@@ -1,0 +1,2 @@
+Zeckendorf's theorem
+Zeckendorf's theorem, named after Belgian mathematician Edouard Zeckendorf, is a theorem about the representation of integers as sums of Fibonacci numbers.

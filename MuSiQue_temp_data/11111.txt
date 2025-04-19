@@ -1,0 +1,2 @@
+Helmholtz coil
+A Helmholtz coil is a device for producing a region of nearly uniform magnetic field, named after the German physicist Hermann von Helmholtz. It consists of two electromagnets on the same axis. Besides creating magnetic fields, Helmholtz coils are also used in scientific apparatus to cancel external magnetic fields, such as the Earth's magnetic field.

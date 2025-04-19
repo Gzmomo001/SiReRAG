@@ -1,0 +1,2 @@
+KDE Platform 4
+KDE Platform 4 was a collection of libraries and software frameworks by KDE that served as technological foundation for KDE Software Compilation 4 distributed under the GNU Lesser General Public License (LGPL). KDE Platform 4 was the successor to KDElibs and the predecessor of KDE Frameworks. KDE Platform 4 is the only version of KDE Platform, see KDE’s brand repositioning.

@@ -1,0 +1,2 @@
+USB
+Though most computers since mid-2004 can boot from USB mass storage devices, USB is not intended as a primary bus for a computer's internal storage. Buses such as Parallel ATA (PATA or IDE), Serial ATA (SATA), or SCSI fulfill that role in PC class computers. However, USB has one important advantage, in that it is possible to install and remove devices without rebooting the computer (hot-swapping), making it useful for mobile peripherals, including drives of various kinds (given SATA or SCSI devices may or may not support hot-swapping).

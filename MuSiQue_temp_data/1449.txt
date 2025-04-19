@@ -1,0 +1,2 @@
+FontForge
+FontForge is a font editor which supports many common font formats. Developed primarily by George Williams until 2012, FontForge is free software and is distributed under a mix of the GNU General Public License Version 3 and the 3-clause BSD license. It is available for operating systems including Linux, Windows and macOS and is localized into 12 languages.

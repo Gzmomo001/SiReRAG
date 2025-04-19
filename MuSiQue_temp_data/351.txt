@@ -1,0 +1,2 @@
+Transistor
+There are two types of transistors, which have slight differences in how they are used in a circuit. A bipolar transistor has terminals labeled base, collector, and emitter. A small current at the base terminal (that is, flowing between the base and the emitter) can control or switch a much larger current between the collector and emitter terminals. For a field-effect transistor, the terminals are labeled gate, source, and drain, and a voltage at the gate can control a current between source and drain.

@@ -1,0 +1,2 @@
+GNU IceCat
+GNU IceCat, formerly known as GNU IceWeasel, is a free software rebranding of the Mozilla Firefox web browser distributed by the GNU Project. It is compatible with GNU/Linux, Windows, Android and macOS.

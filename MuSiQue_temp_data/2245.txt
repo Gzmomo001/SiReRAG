@@ -1,0 +1,2 @@
+Richard Feynman
+In the late 1980s, according to "Richard Feynman and the Connection Machine", Feynman played a crucial role in developing the first massively parallel computer, and in finding innovative uses for it in numerical computations, in building neural networks, as well as physical simulations using cellular automata (such as turbulent fluid flow), working with Stephen Wolfram at Caltech. His son Carl also played a role in the development of the original Connection Machine engineering; Feynman influencing the interconnects while his son worked on the software.

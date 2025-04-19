@@ -1,0 +1,2 @@
+PlusGirot
+PlusGirot "(formerly PostGirot)" is a Swedish money transaction system, owned by Nordea. "PlusGirot" is one of two proprietary clearing systems used for regular transactions such as bill payments in Sweden.

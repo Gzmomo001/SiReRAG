@@ -1,0 +1,2 @@
+Kantorovich inequality
+The Kantorovich inequality is named after Soviet economist, mathematician, and Nobel Prize winner Leonid Kantorovich, a pioneer in the field of linear programming.

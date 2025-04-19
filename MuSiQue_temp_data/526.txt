@@ -1,0 +1,2 @@
+Apache Shale
+Shale is a web application framework maintained by the Apache Software Foundation. It is fundamentally based on JavaServer Faces. As of May 2009 Apache Shale has been retired and moved to the Apache Attic.

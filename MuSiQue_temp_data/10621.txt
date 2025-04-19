@@ -1,0 +1,2 @@
+Web browser
+In 1998, Netscape launched what was to become the Mozilla Foundation in an attempt to produce a competitive browser using the open source software model. That browser would eventually evolve into Firefox, which developed a respectable following while still in the beta stage of development; shortly after the release of Firefox 1.0 in late 2004, Firefox (all versions) accounted for 7% of browser use. As of August 2011, Firefox has a 28% usage share.

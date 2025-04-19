@@ -1,0 +1,2 @@
+Sports league ranking
+In a sports league, the ranking of a team is the place where it is within the division. Generally, ranking is based on won-lost record of games, with the team with the best record at the top, and the worst record at the bottom. Another common method is a points-based ranking system, where a team is awarded a certain number of points per win, fewer points per tie, and none for a loss.

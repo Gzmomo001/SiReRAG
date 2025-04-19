@@ -1,0 +1,2 @@
+BeiDou
+Compass-M1 is an experimental satellite launched for signal testing and validation and for the frequency filing on 14 April 2007. The role of Compass-M1 for Compass is similar to the role of the GIOVE satellites for the Galileo system. The orbit of Compass-M1 is nearly circular, has an altitude of 21,150 km and an inclination of 55.5 degrees.

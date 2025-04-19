@@ -1,0 +1,2 @@
+DOSKEY
+DOSKEY is a command for DOS, IBM OS/2, Microsoft Windows, and ReactOS that adds command history, macro functionality, and improved editing features to the command-line interpreters codice_1 and codice_2.

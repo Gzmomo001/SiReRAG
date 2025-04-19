@@ -1,0 +1,2 @@
+Web browser
+Early web browsers supported only a very simple version of HTML. The rapid development of proprietary web browsers led to the development of non-standard dialects of HTML, leading to problems with interoperability. Modern web browsers support a combination of standards-based and de facto HTML and XHTML, which should be rendered in the same way by all browsers.

@@ -1,0 +1,2 @@
+Return to Castle Wolfenstein
+The source code for "Return to Castle Wolfenstein" and "Enemy Territory" was released under the GNU General Public License (GPL) on August 12, 2010. The "ioquake3" developers at icculus.org announced the start of respective engine projects soon after.

@@ -1,0 +1,2 @@
+Secchi disk
+The Secchi disk, as created in 1865 by Angelo Secchi, is a plain white, circular disk in diameter used to measure water transparency or turbidity in bodies of water. The disc is mounted on a pole or line, and lowered slowly down in the water. The depth at which the disk is no longer visible is taken as a measure of the transparency of the water. This measure is known as the Secchi depth and is related to water turbidity. Since its invention, the disk has also been used in a modified, smaller diameter, black and white design to measure freshwater transparency.

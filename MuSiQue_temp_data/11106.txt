@@ -1,0 +1,2 @@
+GHZ experiment
+The GHZ experiments are named for Daniel M. Greenberger, Michael A. Horne, and Anton Zeilinger (GHZ) who first analyzed certain measurements involving four observers and who subsequently (together with Abner Shimony (GHSZ), upon a suggestion by David Mermin) applied their arguments to certain measurements involving three observers.

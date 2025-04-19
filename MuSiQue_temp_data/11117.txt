@@ -1,0 +1,2 @@
+Robert Weber (astronomer)
+Robert Weber (1926–2008) was an American astronomer and discoverer of minor planets who ran the precursor to the LINEAR project shortly before his retirement in 1996. Data were collected by manually entering telescope pointing positions and requesting an image save. Searching twenty fields was a taxing experience. They did have automatic object detection working, but no starfield matching at that time.
