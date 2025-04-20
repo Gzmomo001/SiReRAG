@@ -1,0 +1,2 @@
+IOS version history
+Current versions Version Build Processor support Application support Kernel Release date Device end - of - life iPad iPhone iPod Touch 3.1. 3 7E18 32 - bit ARM Feb 2, 2010 N / A 1st gen 4.2. 1 8C148 Nov 22, 2010 3G 5.1. 1 9B206 May 7, 2012 1st gen N / A 6.1. 6 10B500 Feb 21, 2014 N / A 3GS 7.1. 2 11D257 32 / 64 - bit ARM Jun 30, 2014 N / A 9.3. 5 13G36 Aug 25, 2016 2, 3, Mini 1 4S 5 10.3. 3 14G60 Jul 19, 2017 5, 5C N / A 11.4. 1 15G77 64 - bit ARM Jul 9, 2018 N / A 12.0 Public beta 5 16A5345f Aug 7, 2018 Legend: Discontinued Current Beta

@@ -1,0 +1,2 @@
+Fresnel number
+The Fresnel number ("F"), named after the physicist Augustin-Jean Fresnel, is a dimensionless number occurring in optics, in particular in scalar diffraction theory.

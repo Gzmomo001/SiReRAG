@@ -1,0 +1,2 @@
+Interliner
+Interliner is an express bus system in the Netherlands. In this country the backbone of medium and long distance public transport is the railroad system. Long distance buses are used complementarily. While most bus lines have many stops or only span small distances (e.g. within cities), Interliner buses travel longer distances with fewer stops, to cover itineraries not served by train, either because the destination is not on the railroad system, or because travel by train would require a considerable detour.

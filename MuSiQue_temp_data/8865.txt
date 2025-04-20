@@ -1,0 +1,2 @@
+Mössbauer effect
+The Mössbauer effect, or recoilless nuclear resonance fluorescence, is a physical phenomenon discovered by Rudolf Mössbauer in 1958. It involves the resonant and recoil-free emission and absorption of gamma radiation by atomic nuclei bound in a solid. Its main application is in Mössbauer spectroscopy.

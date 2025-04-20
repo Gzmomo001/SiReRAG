@@ -1,0 +1,2 @@
+Hadamard's inequality
+In mathematics, Hadamard's inequality, first published by Jacques Hadamard in 1893, is a bound on the determinant of a matrix whose entries are complex numbers in terms of the lengths of its column vectors. In geometrical terms, when restricted to real numbers, it bounds the volume in Euclidean space of "n" dimensions marked out by "n" vectors "v" for 1 ≤ "i" ≤ "n" in terms of the lengths of these vectors ||"v"||.
